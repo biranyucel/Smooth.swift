@@ -11,6 +11,6 @@ let package = Package(
         .target(
             name: "Smooth",
             dependencies: [],
-            path: "Sources/Core/**/*")
+            path: "Sources/Core")
     ]
 )
